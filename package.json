@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-geonames",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GeoNames MCP — GeoNames geographical database API",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "geonames",
     "gatewaySlug": "geonames",
-    "sourceHash": "v1-48b48a408e95ea6a4299fc0e1d99f018cd9426d2516c8a232c6795ca62073094",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-be2c6719f97a5ad2b73c3f7d7ca3ea18e3597bbf15646652798a012f254f78df",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
